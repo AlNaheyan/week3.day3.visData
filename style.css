@@ -1,0 +1,25 @@
+body {
+    background-color: #222831;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.person{
+    background-color: #393E46;
+    padding: 5% 15% 5% 15%;
+    text-align: center;
+    margin: 2% 20% 0% 20%;
+    color: #00ADB5;
+    border-radius: 5%;
+    font-size: 140%;
+}
+
+#gender, #age, #phone, #email {
+    margin: 3%;
+    font-size: 90%;
+    color: #EEEEEE;
+}
+
+#photo {
+    width: 50%;
+    border-radius: 50%;
+}
